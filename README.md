@@ -1,3 +1,3 @@
-# Building DoctorCare 
-- https://choiceclouds.co.uk/myhospital-cloud/
+#BAO Projects
+https://baosystems.com/product/bao-analytics-platform/
  
